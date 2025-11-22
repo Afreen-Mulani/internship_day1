@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="j">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jdk-25_windows-x64_bin.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
